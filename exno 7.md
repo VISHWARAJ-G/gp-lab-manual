@@ -12,7 +12,7 @@ To implement-chasing when AI see the player.
 - **STEP-7:** Update blackboard values. Set the Blackboard Key to the "PlayerLocation" key you created earlier.
 - **STEP-8:** Set up the Behavior Tree by Open the Behavior Tree asset in the Behavior Tree editor.
 
-Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/ac77ca25-7837-4f08-afa9-a3d5b5a04589)
 
@@ -20,5 +20,5 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/559c45b9-4aa5-445d-b8f5-b6be5a9d84e0)
 
-Result:
+## Result:
 Thus, the AI concept to the actor for a random movement
