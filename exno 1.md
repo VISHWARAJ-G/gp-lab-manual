@@ -31,7 +31,7 @@ properties in Unreal Engine.
 ## Output:
 **1. Emissive property (glowing material):**
 ![image](https://github.com/user-attachments/assets/2c4ffcb2-c8b2-4c8e-827b-a3daa38286f1)
-**2. Roughness property (matte vs shiny surfaces):
+**2. Roughness property (matte vs shiny surfaces):**
 ![image](https://github.com/user-attachments/assets/8ba9d5f9-b604-4256-8541-9994367c0be0)
 **3. Metallic property (metallic vs non-metallic appearance)**:
 ![image](https://github.com/user-attachments/assets/8461e700-0ac1-4e17-a4e8-91dd9a731a82)
