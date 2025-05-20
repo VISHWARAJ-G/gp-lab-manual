@@ -1,4 +1,4 @@
-EXP: 07-AI CHASING
+# EXP: 07-AI CHASING
 Aim:
 To implement-chasing when AI see the player.
 Algorithm:
