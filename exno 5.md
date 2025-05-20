@@ -20,7 +20,7 @@ To create ammo to increase the bullet count and increase the bullet spawn count.
 ### The player holding the gun and ammos are there and the bullet spawn is 20.
 ![image](https://github.com/user-attachments/assets/1d478690-d846-48be-b2dd-a733b6e719de)
 
-### EventAlgorithm:
+### Event   Algorithm:
 - **STEP-1:** Create an ammo actor.
 - **STEP-2:** Set up the ammo actor.
 - **STEP-3:** Implement the player's interaction with the ammo actor.
